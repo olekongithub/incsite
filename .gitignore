@@ -1,0 +1,5 @@
+# ignore emacs junk
+*~
+*#
+
+*.pyc
