@@ -15,16 +15,16 @@ summary: Interns
 I am currently a senior at Queens College pursuing my Bachelor’s in
 Computer Science.  I am lucky to have had family and friends who have
 given me courage when I thought I had none.  Simply not wanting to
-disappoint these people whose favorable opinions I care so much about
-has increased my motivation and eventually my own confidence.  This
-has developed into a will to keep fighting and always trying my
-hardest to accomplish any task at hand.
+disappoint those close to me or myself has increased my motivation and,
+consequently, my own confidence.  This has developed into a will to keep
+fighting and always trying my hardest to accomplish any task at hand.
 
-Because I have been so lucky to have this network, the community as
-much as my academic goals have been the focus of my work.  Service has
+Because I have been so lucky to have this network, I understand the
+value of community and teamwork.  The community as much as my academic
+goals have been the focus of my work.  Service has
 been at the heart of what I do for the better part of my High School
-and Collegiate experience.  My volunteer experience includes after
-school child care and tutoring in the Hell’s Kitchen community.  I
+and Collegiate years.  My volunteer experience includes afterschool
+child care and tutoring in the Hell’s Kitchen community.  I
 spent three hours a day with children who would otherwise have had
 nowhere to go after school, allowing them to study, do homework, and
 have a safe place within the community they could come together to be
@@ -35,7 +35,7 @@ have been a huge proponent of the work done by Habitat for Humanity.
 Over the course of two service trips, I spent two weeks in Bayou La
 Batre, Alabama restoring the home of a family devastated by Hurricane
 Katrina and two weeks in the Appalachia Region of Tennessee
-constructing a new home for a family who never never had the chance to
+constructing a new home for a family who never never had the means to
 own one before.  The time spent in these communities and with those on
 these trips has given me the empathic foundation with which I live my
 life everyday.  Along with my volunteer service I spent time
