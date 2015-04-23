@@ -47,8 +47,8 @@ support the less fortunate in the community.
 <p><img src="../images/Kenneth<sub>Goodman.jpg</sub>" width="450px" alt="img" title="Kenneth<sub>Goodman.jpg</sub>"></p>
 
 I am an Applied Mathematics Student with a concentration in Computer
-Science at Queens College. On my free time I study data analytics,
-number theory and video game design. At the Queens College incubator,
+Science at Queens College. In my free time I study data analytics,
+number theory, and video game design. At the Queens College incubator,
 my principal focus is on the STEM+C project. I hope to help improve
 learning in the fields related to STEM+C and to help students from
 various backgrounds succeed in fields that are so important.
@@ -59,12 +59,12 @@ various backgrounds succeed in fields that are so important.
 
 My name is Kevin Ramsunder, and I am a third year undergraduate
 student at Queens College. I started programming as a hobby in high
-school after participating in my school's Robotics program. Nowadays,
+school after participating in my school's robotics program. Nowadays,
 my main goal in this field is to use technology to improve every
 aspect of our daily lives. Aside from my own personal projects, I
 enjoy coding collaboratively with others who share the same passion
 for creating useful and innovative software. I am also a believer in
-the Open-Source movement and its mission to make software free for the
+the Open-Source Movement and its mission to make software free for the
 community. At the Queens College Incubator, I am interested in the
 Starter Jobs task in hopes that the project will have a real world
 impact for people who are having trouble finding jobs. My resume is 
