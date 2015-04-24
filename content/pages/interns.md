@@ -83,3 +83,7 @@ consultancy based in Los Angeles, where I created an internal credit
 tracking template that resulted in enhanced credit management for
 Fortune 500 clients. I look forward to contributing to projects at the
 Queens College incubator, particularly the Starter Jobs project.
+
+## Aryan Jabbari
+
+I am a graduate student at CUNY Queens College and an IT aide at Queens College's Academic Advising Center.  In addition to learning at Queens College, I am an active student at Coursera and regularly take computer science courses online.  I am interested in using technology to help others, especially those in Queens county.  My principal focuses at the Queens College technology incubator is on the Starter Jobs and Flushing Chamber of Commerce projects.
