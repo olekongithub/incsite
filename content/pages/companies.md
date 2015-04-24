@@ -1,7 +1,7 @@
 title: Companies
 modified: 2014-03-10
 tags: incubator, startups
-slug: portfolio
+slug: companies
 label: Companies
 authors: Evan Misshula
 summary: Companies

@@ -19,11 +19,11 @@ MENUITEMS = [('Mission','/pages/mission.html'),
 ]
 
 PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 USE_FOLDER_AS_CATEGORY = True
 
 DEFAULT_LANG = u'en'
-STATIC_PATHS = [ 'images', 'js' ]
+STATIC_PATHS = [ 'images', 'js','css' ]
 IGNORE_FILES = ['.#*', '*~']
 
 # Feed generation is usually not desired when developing

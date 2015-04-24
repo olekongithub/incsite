@@ -10,7 +10,7 @@ summary: Interns
 
 ## Mathew Blanco
 
-<p><img src="../images/Mathew<sub>Blanco.jpg</sub>" width="450px" alt="img" title="Mathew<sub>Blanco.jpg</sub>"></p>
+<p><img src="../images/MatthewBlanco.jpg" width="450px" alt="img" title="MathewBlanco.jpg"></p>
 
 I am currently a senior at Queens College pursuing my Bachelor’s in
 Computer Science.  I am lucky to have had family and friends who have
@@ -44,7 +44,7 @@ support the less fortunate in the community.
 
 ## Kenneth Goodman
 
-<p><img src="../images/Kenneth<sub>Goodman.jpg</sub>" width="450px" alt="img" title="Kenneth<sub>Goodman.jpg</sub>"></p>
+<p><img src="../images/KennethGoodman.jpg" width="450px" alt="img" title="KennethGoodman.jpg"></p>
 
 I am an Applied Mathematics Student with a concentration in Computer
 Science at Queens College. On my free time I study data analytics,
@@ -55,7 +55,7 @@ various backgrounds succeed in fields that are so important.
 
 ## Kevin Ramsunder
 
-<p><img src="../images/Kevin<sub>Rasmunder.jpg</sub>" width="450px" alt="img" title="Kevin<sub>Rasmunder.jpg</sub>"></p>
+<p><img src="../images/KevinRamsunder.jpg" width="450px" alt="img" title="KevinRamsunder.jpg"></p>
 
 My name is Kevin Ramsunder, and I am a third year undergraduate
 student at Queens College. I started programming as a hobby in high
@@ -70,9 +70,9 @@ Starter Jobs task in hopes that the project will have a real world
 impact for people who are having trouble finding jobs. My resume is 
 available here. My website is KevinRamsunder.com.
 
-## Miriam Stricks
+## Miriam Striks
 
-<p><img src="../images/Miriam<sub>Stricks.jpg</sub>" width="450px" alt="img" title="Miriam<sub>Stricks.jpg</sub>"></p>
+<p><img src="../images/MiriamStriks.jpg" width="450px" alt="img" title="MiriamStriks.jpg"></p>
 
 I am a senior majoring in computer science at Queens College, where I
 also work with Professor Christopher Hanusa doing research in
