@@ -70,7 +70,7 @@ Starter Jobs task in hopes that the project will have a real world
 impact for people who are having trouble finding jobs. My resume is 
 available here. My website is KevinRamsunder.com.
 
-## Miriam Stricks
+## Miriam Striks
 
 <p><img src="../images/Miriam<sub>Stricks.jpg</sub>" width="450px" alt="img" title="Miriam<sub>Stricks.jpg</sub>"></p>
 
