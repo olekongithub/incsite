@@ -10,7 +10,7 @@ summary: Staff
 
 ## Professor Ted Brown, Ph.D.
 
-<p><img src="../images/Ted<sub>Brown.jpg</sub>" width="450px" alt="img" title="Ted<sub>Brown.jpg</sub>"></p>
+<p><img src="../images/TedBrown.jpg" width="450px" alt="img" title="TedBrown.jpg"></p>
 
 *Executive Director, CUNY Institute for Software Design and Development*
 *Professor of Computer Science, Queens College*
@@ -26,10 +26,10 @@ Executive Board of the New York Software Industry Association.
 
 ## Evan Misshula
 
-<p><img src="../images/Evan<sub>Misshula.jpg</sub>" width="450px" alt="img" title="Evan<sub>Misshula.jpg</sub>"></p>
+<p><img src="../images/EvanMisshula.jpg" width="450px" alt="img" title="EvanMisshula.jpg"></p>
 
 I am a GC Digital Fellow and sixth year PhD student in Criminal
-Justice at the CUNY Graduate Center. My dissertation is an
+Justice at the CUNY Graduate Center. My dissertation is a
 Quasi-experimental evaluation of a public health centered
 anti-violence programs. I recently served as a CUNY John Jay
 Presidential Fellow where I work on the Misdemeanor Justice
