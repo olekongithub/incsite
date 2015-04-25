@@ -5,7 +5,12 @@ body {
   font-weight: 300;
   text-rendering: optimizeLegibility;
 }
-
+#text{
+    position:relative;
+    height:auto;
+    overflow:hidden;
+    text-align:justify;
+}
 h1, h2, h3, h4, h5, h6 {
   color: #222;
   margin: 0 0 20px;
@@ -92,11 +97,19 @@ th {
   color: #444;
 }
 
+#spacer{
+    position:relative;
+    height:350px;
+    width:100%;
+}
 img {
-  max-width: 100%;
+    position:relative;
+    float:left;
+    height:450px;
+    width:auto;
 }
 
-header {
+Header {
   margin-bottom: 50px;
   overflow: auto;
 }
