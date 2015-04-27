@@ -13,7 +13,7 @@ summary: Interns
 
 ## Carlos Del Rosario
 <div id="text">
-<img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; padding-left:10px;">
+<img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; margin-left:10px; padding-right:1px;">
 
 Born and raised in the Dominican Republic, I moved to the United
 States in September of 2010. I am currently a Senior at Queens
@@ -34,7 +34,7 @@ Applications, Arduino Projects, 3D Printing and more.
 
 ## Mathew Blanco
 <div id="text">
-<p><img src="../images/MatthewBlanco.jpg" alt="img" title="MathewBlanco.jpg" style="padding-right:10px;"></p>
+<p><img src="../images/MatthewBlanco.jpg" alt="img" title="MathewBlanco.jpg" style="margin-right:10px; padding-left:1px;"></p>
 
 I am currently a senior at Queens College pursuing my Bachelor’s in
 Computer Science.  I am lucky to have had family and friends who have
@@ -69,7 +69,7 @@ support the less fortunate in the community.
 
 ## Kenneth Goodman
 <div id="text">
-<p><img src="../images/KennethGoodman.jpg" alt="img" title="KennethGoodman.jpg" style="float:right; width:350px; height:250px; padding-left:10px;"></p>
+<p><img src="../images/KennethGoodman.jpg" alt="img" title="KennethGoodman.jpg" style="float:right; width:350px; height:250px; margin-left:10px; padding-right:1px;"></p>
 
 I am an Applied Mathematics Student with a concentration in Computer
 Science at Queens College. On my free time I study data analytics,
@@ -81,7 +81,7 @@ various backgrounds succeed in fields that are so important.
 
 ## Kevin Ramsunder
 <div id="text">
-<p><img src="../images/KevinRamsunder.jpg" alt="img" title="KevinRamsunder.jpg" style="padding-right:10px;"></p>
+<p><img src="../images/KevinRamsunder.jpg" alt="img" title="KevinRamsunder.jpg" style="margin-right:10px; padding-left:1px;"></p>
 
 My name is Kevin Ramsunder, and I am a third year undergraduate
 student at Queens College. I started programming as a hobby in high
@@ -99,7 +99,7 @@ available here. My website is KevinRamsunder.com.
 
 ## Miriam Striks
 <div id="text">
-<p><img src="../images/MiriamStriks.jpg" alt="img" title="MiriamStriks.jpg" style="float:right; padding-left:10px;"></p>
+<p><img src="../images/MiriamStriks.jpg" alt="img" title="MiriamStriks.jpg" style="float:right; margin-left:10px; padding-right:1px;"></p>
 
 I am a senior majoring in computer science at Queens College, where I
 also work with Professor Christopher Hanusa doing research in

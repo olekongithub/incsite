@@ -6,11 +6,16 @@
     text-align:justify;
 }
 
+body{
+    padding:1px;
+}
+
 img {
     position:relative;
     float:left;
     height:350px;
     width:auto;
+    border:1pt solid #000000;
 }
 
 #spacer{
