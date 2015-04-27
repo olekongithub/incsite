@@ -6,11 +6,14 @@ label: Interns
 authors: Evan Misshula
 summary: Interns
 
+<link rel="stylesheet" href="../css/styles.css" type="text/css"/>
+
+
 # The Queens College Incubator Interns
 
 ## Carlos Del Rosario
-
-<img src="../images/CarlosDelRosario.jpg" width="450px" alt="img" title="Carlos Del Rosario">
+<div id="text">
+<img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; padding-left:10px;">
 
 Born and raised in the Dominican Republic, I moved to the United
 States in September of 2010. I am currently a Senior at Queens
@@ -26,10 +29,12 @@ really great opportunity. In my spare time I enjoy learning about new
 technologies and work on small projects. Among technologies that call
 my attention right now are Software Development, Android
 Applications, Arduino Projects, 3D Printing and more.
+</div>
+
 
 ## Mathew Blanco
-
-<p><img src="../images/MatthewBlanco.jpg" width="450px" alt="img" title="MathewBlanco.jpg"></p>
+<div id="text">
+<p><img src="../images/MatthewBlanco.jpg" alt="img" title="MathewBlanco.jpg" style="padding-right:10px;"></p>
 
 I am currently a senior at Queens College pursuing my Bachelor’s in
 Computer Science.  I am lucky to have had family and friends who have
@@ -54,16 +59,17 @@ have been a huge proponent of the work done by Habitat for Humanity.
 Over the course of two service trips, I spent two weeks in Bayou La
 Batre, Alabama restoring the home of a family devastated by Hurricane
 Katrina and two weeks in the Appalachia Region of Tennessee
-constructing a new home for a family who never never had the chance to
+constructing a new home for a family who never never had the means to
 own one before.  The time spent in these communities and with those on
 these trips has given me the empathic foundation with which I live my
 life everyday.  Along with my volunteer service I spent time
 collecting and fundraising for the Atlanta Community Food Bank to
 support the less fortunate in the community.
+</div>
 
 ## Kenneth Goodman
-
-<p><img src="../images/KennethGoodman.jpg" width="450px" alt="img" title="KennethGoodman.jpg"></p>
+<div id="text">
+<p><img src="../images/KennethGoodman.jpg" alt="img" title="KennethGoodman.jpg" style="float:right; width:350px; height:250px; padding-left:10px;"></p>
 
 I am an Applied Mathematics Student with a concentration in Computer
 Science at Queens College. On my free time I study data analytics,
@@ -71,10 +77,11 @@ number theory and video game design. At the Queens College incubator,
 my principal focus is on the STEM+C project. I hope to help improve
 learning in the fields related to STEM+C and to help students from
 various backgrounds succeed in fields that are so important.
+</div>
 
 ## Kevin Ramsunder
-
-<p><img src="../images/KevinRamsunder.jpg" width="450px" alt="img" title="KevinRamsunder.jpg"></p>
+<div id="text">
+<p><img src="../images/KevinRamsunder.jpg" alt="img" title="KevinRamsunder.jpg" style="padding-right:10px;"></p>
 
 My name is Kevin Ramsunder, and I am a third year undergraduate
 student at Queens College. I started programming as a hobby in high
@@ -88,10 +95,11 @@ community. At the Queens College Incubator, I am interested in the
 Starter Jobs task in hopes that the project will have a real world
 impact for people who are having trouble finding jobs. My resume is 
 available here. My website is KevinRamsunder.com.
+</div>
 
 ## Miriam Striks
-
-<p><img src="../images/MiriamStriks.jpg" width="450px" alt="img" title="MiriamStriks.jpg"></p>
+<div id="text">
+<p><img src="../images/MiriamStriks.jpg" alt="img" title="MiriamStriks.jpg" style="float:right; padding-left:10px;"></p>
 
 I am a senior majoring in computer science at Queens College, where I
 also work with Professor Christopher Hanusa doing research in
@@ -102,9 +110,10 @@ consultancy based in Los Angeles, where I created an internal credit
 tracking template that resulted in enhanced credit management for
 Fortune 500 clients. I look forward to contributing to projects at the
 Queens College incubator, particularly the Starter Jobs project.
+</div>
 
 ## Aryan Jabbari
-
+<div id="text">
 I am a graduate student at CUNY Queens College and an IT aide at
 Queens College's Academic Advising Center.  In addition to learning at
 Queens College, I am an active student at Coursera and regularly take
@@ -112,3 +121,4 @@ computer science courses online.  I am interested in using technology
 to help others, especially those in Queens county.  My principal
 focuses at the Queens College technology incubator is on the Starter
 Jobs and Flushing Chamber of Commerce projects.
+</div>
