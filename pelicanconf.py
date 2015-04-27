@@ -38,11 +38,6 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
          ('Queens College CS', 'http://www.cs.qc.cuny.edu/index-5.html'),
          ('Flushing Chamber of Commerce', 'http://flushingchamber.com'))
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -50,6 +45,6 @@ DEFAULT_PAGINATION = 10
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
           ('github', 'https://github.com/cisdd'),
-          ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'),)
+          ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'))
 
 DEFAULT_PAGINATION = 10
