@@ -37,9 +37,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
          ('Queens College CS', 'http://www.cs.qc.cuny.edu/index-5.html'),
-         ('Flushing Chamber of Commerce', 'http://flushingchamber.com'),
-         ('You can modify those links in your config file', '#'),)
-
+         ('Flushing Chamber of Commerce', 'http://flushingchamber.com'))
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
