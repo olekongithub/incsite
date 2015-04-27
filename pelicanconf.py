@@ -18,7 +18,8 @@ MENUITEMS = [('Mission','/pages/mission.html'),
              ('Staff','/pages/staff.html'),
 ]
 
-PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
+#PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
+THEME ='Themes/tuxlite_tbs'
 DELETE_OUTPUT_DIRECTORY = True
 USE_FOLDER_AS_CATEGORY = True
 
