@@ -41,7 +41,7 @@ LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
           ('github', 'https://github.com/cisdd'),
-          ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'))
+         )# ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'))
 
 DEFAULT_PAGINATION = 10
 

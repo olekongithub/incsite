@@ -1,7 +1,7 @@
 title: Funding Announcement
 date: 2014-07-28 15:02
 author: emisshula
-category: funding
+category: Funding
 tags: Funding, Government
 slug: Fund-Announcement
 
