@@ -1,8 +1,8 @@
 title: Interns
 modified: 2014-03-10
-tags:research, incubator
-slug: research
-label: research
+tags: Research, Incubator
+slug: Research
+label: Research
 authors: Matthew Blanco
 summary: Research
 

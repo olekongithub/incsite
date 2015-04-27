@@ -1,7 +1,7 @@
 title: Interns
 modified: 2014-03-10
-tags: interns, incubator
-slug: interns
+tags: Interns, Incubator
+slug: Interns
 label: Interns
 authors: Evan Misshula
 summary: Interns

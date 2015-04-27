@@ -2,8 +2,8 @@ title: Funding Announcement
 date: 2014-07-28 15:02
 author: emisshula
 category: funding
-tags: funding, government
-slug: fund-announcement
+tags: Funding, Government
+slug: Fund-Announcement
 
 Governor Andrew M. Cuomo today announced the first round of NY CUNY
 2020 awards, providing $55 million to fund eight innovative projects

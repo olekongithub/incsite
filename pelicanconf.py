@@ -18,7 +18,6 @@ MENUITEMS = [('Mission','/pages/mission.html'),
              ('Staff','/pages/staff.html'),
 ]
 
-#PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
 THEME ='Themes/tuxlite_tbs'
 DELETE_OUTPUT_DIRECTORY = True
 USE_FOLDER_AS_CATEGORY = True
@@ -39,12 +38,13 @@ LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
          ('Queens College CS', 'http://www.cs.qc.cuny.edu/index-5.html'),
          ('Flushing Chamber of Commerce', 'http://flushingchamber.com'))
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
           ('github', 'https://github.com/cisdd'),
           ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'))
 
 DEFAULT_PAGINATION = 10
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
