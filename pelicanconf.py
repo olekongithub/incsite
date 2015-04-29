@@ -18,6 +18,7 @@ MENUITEMS = [('Mission','/pages/mission.html'),
              ('Staff','/pages/staff.html'),
 ]
 
+LOAD_CONTENT_CACHE = False
 PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
 DELETE_OUTPUT_DIRECTORY = True
 USE_FOLDER_AS_CATEGORY = True
@@ -37,7 +38,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
          ('Queens College CS', 'http://www.cs.qc.cuny.edu/index-5.html'),
          ('Flushing Chamber of Commerce', 'http://flushingchamber.com'),
-         ('You can modify those links in your config file', '#'),)
+         )
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
