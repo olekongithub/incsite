@@ -18,6 +18,7 @@ MENUITEMS = [('Mission','/pages/mission.html'),
              ('Staff','/pages/staff.html'),
 ]
 
+
 LOAD_CONTENT_CACHE = False
 PELICAN_THEMES = '/home/evan/pelican-themes/tuxlite_tbs'
 DELETE_OUTPUT_DIRECTORY = True
@@ -41,17 +42,12 @@ LINKS = (('Queens Collge', 'http://www.qc.cuny.edu/Pages/home.aspx'),
          )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
+          ('github', 'https://github.com/cisdd'),
+         )# ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'))
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# Social widget
-SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
-          ('github', 'https://github.com/cisdd'),
-          ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'),)
-
-DEFAULT_PAGINATION = 10

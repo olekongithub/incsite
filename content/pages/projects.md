@@ -1,7 +1,7 @@
 title: Projects
 modified: 2014-03-10
-tags: projects, incubator
-slug: projects
+tags: Projects, incubator
+slug: Projects
 label: Projects
 authors: Evan Misshula
 summary: Projects

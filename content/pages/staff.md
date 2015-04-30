@@ -1,7 +1,7 @@
 title: Staff
 modified: 2014-03-10
-tags: staff, incubator
-slug: staff
+tags: Staff, Incubator
+slug: Staff
 label: Staff
 authors: Evan Misshula
 summary: Staff
