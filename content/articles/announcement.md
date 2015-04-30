@@ -2,16 +2,17 @@ title: Funding Announcement
 date: 2014-07-28 15:02
 author: emisshula
 category: Funding
-tags: funding, government
-slug: fund-announcement
+tags: Funding| Government
+slug: Fund-Announcement
+
 
 Governor Andrew M. Cuomo today announced the first round of NY CUNY
-2020 awards, providing $55 million to fund eight innovative projects
+2020 awards| providing $55 million to fund eight innovative projects
 involving 20 participating CUNY campuses designed to connect academic
 excellence with entrepreneurship and local economic
 development. Projects were selected through a competitive process
 utilizing staff from CUNY and Empire State Development and will
-support the creation of more than 3,800 jobs over six years.
+support the creation of more than 3|800 jobs over six years.
 
 "The students at New York City’s public colleges and universities have
 provided the world with game-changing ideas in fields ranging from

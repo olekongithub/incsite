@@ -1,7 +1,7 @@
 title: Mission
 modified: 2014-03-10
-tags: missiona, incubator
-slug: mission
+tags: Missiona, Incubator
+slug: Mission
 label: Mission
 authors: Evan Misshula
 summary: Mission
