@@ -32,7 +32,7 @@ Applications, Arduino Projects, 3D Printing and more.
 </div>
 
 
-## Mathew Blanco
+##<a href="../images/Matthew_Blanco_Resume.pdf">Matthew Blanco</a>
 <div id="text">
 <p><img src="../images/MatthewBlanco.jpg" alt="img" title="MathewBlanco.jpg" style="margin-right:10px; padding-left:1px;"></p>
 
@@ -64,7 +64,7 @@ own one before.  The time spent in these communities and with those on
 these trips has given me the empathic foundation with which I live my
 life everyday.  Along with my volunteer service I spent time
 collecting and fundraising for the Atlanta Community Food Bank to
-support the less fortunate in the community.
+support the less fortunate in the community.  My personal website is <a href="http://Matthew-Blanco.ddns.net">Matthew-Blanco</a>
 </div>
 
 ## Kenneth Goodman
