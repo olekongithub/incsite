@@ -1,4 +1,4 @@
-title: Interns
+﻿title: Interns
 modified: 2014-03-10
 tags: Interns, Incubator
 slug: Interns
@@ -13,7 +13,7 @@ summary: Interns
 
 ## Carlos Del Rosario
 <div id="text">
-<img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; margin-left:10px; padding-right:1px;">
+<p><img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; margin-left:10px; padding-right:1px;"></p>
 
 Born and raised in the Dominican Republic, I moved to the United
 States in September of 2010. I am currently a Senior at Queens
@@ -94,7 +94,7 @@ the Open-Source movement and its mission to make software free for the
 community. At the Queens College Incubator, I am interested in the
 Starter Jobs task in hopes that the project will have a real world
 impact for people who are having trouble finding jobs. My resume is 
-available here. My website is KevinRamsunder.com.
+available here. My website is [KevinRamsunder.com](http://kevinramsunder.com/).
 </div>
 
 ## Miriam Striks
