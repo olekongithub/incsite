@@ -20,7 +20,7 @@ MENUITEMS = [('Mission','/pages/mission.html'),
 
 
 LOAD_CONTENT_CACHE = False
-THEMES = 'Themes/tuxlite_tbs'
+THEME = 'Themes/tuxlite_tbs'
 DELETE_OUTPUT_DIRECTORY = True
 USE_FOLDER_AS_CATEGORY = True
 
